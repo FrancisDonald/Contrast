@@ -1,0 +1,7 @@
+INFO:root:**********************************************************************
+INFO:root:*** In case of problems with this applications please provide the  ***
+INFO:root:*** content of this file for diagnostics.                          ***
+INFO:root:**********************************************************************
+DEBUG:contrast.cio:Got file to load: ./contrast/assets/test.jpg
+DEBUG:contrast.cio:File extension is .jpg
+DEBUG:contrast.file_loading:Reading file as image: ./contrast/assets/test.jpg
